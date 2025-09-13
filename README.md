@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I'm Aryan  
+# Hi there 👋
 
 - 🎓 Computer Science student at UNC Charlotte  
 - 💻 Concentration in Web & Mobile Development & Software Engineering  
