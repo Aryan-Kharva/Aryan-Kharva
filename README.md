@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋 I'm Aryan  
+
+- 🎓 Computer Science student at UNC Charlotte  
+- 💻 Concentration in Web & Mobile Development & Software Engineering  
+- 🌱 Interested in frontend development, web apps, and creating intuitive UI/UX  
+- ✨ Always learning and experimenting with new tech  
+
